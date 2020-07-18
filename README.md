@@ -1,4 +1,5 @@
 # Open Source Discord Bot
+Hey, thanks for checking this out! Do you have any recommendations for npm packages or base ideas I should use? Add me on discord `Max Thakur#0831`, and send me a message! 
 ## Table of Contents
 
 * [Installation](#installation)
