@@ -1,0 +1,19 @@
+{
+  "name": "aibot",
+  "version": "0.0.1",
+  "description": "A ai chatbot for discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxThakurCodes/Open-Source-Discord-Bot.git"
+  },
+  "author": "Max Thakur",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/MaxThakurCodes/Open-Source-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/MaxThakurCodes/Open-Source-Discord-Bot#readme"
+}
